@@ -1,1 +1,1 @@
-FROM openebs/m-exporter:2.12.2
+FROM openebs/m-exporter:3.6.0
